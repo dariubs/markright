@@ -1,0 +1,44 @@
+kickerz 
+
+Headers :
+
+h1 : !
+h2 : !!
+h3 : !!!
+h4 : !!!!
+h5 : !!!!!
+h6 : !!!!!!
+
+Link :
+
+a : (link*title)
+
+List :
+
+- item 1
+-- inner item
+- item 2
+- item 3
+
+Image :
+
+(*link*title)
+
+Reference :
+
+(alt*id*)
+
+Inline code :
+
+−− code --
+
+Multiline code :
+
+---
+code
+---
+
+Alternatives :
+
+* == ×
+ٍ
