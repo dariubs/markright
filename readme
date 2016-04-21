@@ -9,6 +9,11 @@ h4 : !!!!
 h5 : !!!!!
 h6 : !!!!!!
 
+Bold :
+
+b : %text%
+
+
 Link :
 
 a : (link*title)
@@ -41,4 +46,4 @@ code
 Alternatives :
 
 * == ×
-ٍ
+% == ٪
